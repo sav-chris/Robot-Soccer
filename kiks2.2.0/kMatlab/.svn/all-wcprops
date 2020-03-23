@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab
+END
+kMoveTo.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kMoveTo.m
+END
+kLinLight.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kLinLight.m
+END
+kList.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kList.m
+END
+kSetPositionPID.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetPositionPID.m
+END
+kWriteByte.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kWriteByte.m
+END
+kBattle_fire.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kBattle_fire.m
+END
+kopen.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kopen.dll
+END
+kFlush.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kFlush.m
+END
+kGetStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kGetStatus.m
+END
+kBraitenberg.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kBraitenberg.m
+END
+kSetGripper.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetGripper.m
+END
+kBraitenbergG.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kBraitenbergG.m
+END
+kGetSpeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kGetSpeed.m
+END
+kGetAnalog.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kGetAnalog.m
+END
+kGetEncoders.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kGetEncoders.m
+END
+kTurretBios.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kTurretBios.m
+END
+kProximity.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kProximity.m
+END
+kLED.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kLED.m
+END
+ksend.dll
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/ksend.dll
+END
+kSetSpeedPID.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetSpeedPID.m
+END
+kProximityG.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kProximityG.m
+END
+kSetProfile.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetProfile.m
+END
+kSetSpeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetSpeed.m
+END
+kSetEncoders.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetEncoders.m
+END
+kSetPWM.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetPWM.m
+END
+kAmbient.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kAmbient.m
+END
+kStatus.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kStatus.m
+END
+kclose.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kclose.dll
+END
+kStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kStop.m
+END
+kTurret.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kTurret.m
+END
+kTeam.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kTeam.m
+END
+kBattle_sensors.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kBattle_sensors.m
+END
+kRadio_read.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kRadio_read.m
+END
+ksends.dll
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/ksends.dll
+END
+kSetArm.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kSetArm.m
+END
+kBios.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kBios.m
+END
+kReadByte.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kReadByte.m
+END
+kRadio_status.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kRadio_status.m
+END
+kcmd.m
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kcmd.m
+END
+kLinVis.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kLinVis.m
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/readme.txt
+END
+kRadio_send.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/kMatlab/kRadio_send.m
+END

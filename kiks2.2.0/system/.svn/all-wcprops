@@ -1,0 +1,947 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system
+END
+kiks_calculate_angle.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_angle.m
+END
+kiks_gui_resize.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_resize.m
+END
+kiks_asciiencode.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_asciiencode.m
+END
+kiks_delete_robot.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_delete_robot.m
+END
+kiks_blob2polygon.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_blob2polygon.m
+END
+kiks_gui_roundobjvis.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_roundobjvis.m
+END
+kiks_arena_add_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_add_mask.m
+END
+kiks_fourbyte2ip.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_fourbyte2ip.m
+END
+kiks_mm2p.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_mm2p.m
+END
+kiks_update_ball.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_update_ball.m
+END
+kiks_generate_wall_patches.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_generate_wall_patches.m
+END
+kiks_gui_setcomplistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_setcomplistbox.m
+END
+kiks_gui_kiksnet_password_close.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_kiksnet_password_close.m
+END
+kiks_gui_settimescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_settimescale.m
+END
+kiks_arena_walls.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_walls.m
+END
+kiks_arena_addball.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_addball.m
+END
+kiks_calculate_moverobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_moverobot.m
+END
+kiks_arena_edit.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_edit.m
+END
+kiks_calculate_speed_profile.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_speed_profile.m
+END
+kiks_getsystempath.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_getsystempath.m
+END
+kiks_progress.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_progress.m
+END
+kiks_robotpatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_robotpatch.m
+END
+nnet_array.mat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/nnet_array.mat
+END
+kiks_transmit_var.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_transmit_var.m
+END
+kiks_mouse_moveobj.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_mouse_moveobj.m
+END
+kiks_gui.mat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui.mat
+END
+kiks_foreground.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_foreground.m
+END
+kiks_tif2arena.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_tif2arena.m
+END
+kiks_gui_robotvis.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_robotvis.m
+END
+kiks_delete_remote.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_delete_remote.m
+END
+kiks_save_settings.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_save_settings.m
+END
+kiks_server_request.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_server_request.m
+END
+kiks_load.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_load.m
+END
+kiks_server_disconnect.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_server_disconnect.m
+END
+kiks_server_connect.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_server_connect.m
+END
+kiks_arena_subremoterobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_subremoterobot.m
+END
+kiks_arena_new_create.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_new_create.m
+END
+kiks_decode.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_decode.m
+END
+kiks_arena_window_clear.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_window_clear.m
+END
+kiks_calibrate.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calibrate.m
+END
+kiks_updaterobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_updaterobot.m
+END
+kiks_patch_ball.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_patch_ball.m
+END
+kiks_gui_placerobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_placerobot.m
+END
+kiks_draw_roundobj.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_draw_roundobj.m
+END
+kiks_setmode.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_setmode.m
+END
+kiks_tou.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_tou.m
+END
+kiks_draw_remoterobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_draw_remoterobot.m
+END
+kiks.m
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks.m
+END
+kiks_kiksnet_disconnect.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_kiksnet_disconnect.m
+END
+kiks_arena.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena.m
+END
+kiks_draw_ball.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_draw_ball.m
+END
+kiks_spawn.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_spawn.m
+END
+kiks_gui_kiksnet_clientstats.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_kiksnet_clientstats.m
+END
+kiks_robotwheelpatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_robotwheelpatch.m
+END
+kiks_gui_kiksnet_scroll.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_kiksnet_scroll.m
+END
+kiks_asciidecode.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_asciidecode.m
+END
+kiks_update_remote.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_update_remote.m
+END
+kiks_robotsenspatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_robotsenspatch.m
+END
+kiks_net_request.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_net_request.m
+END
+kiks_get_speed_from_profile.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_get_speed_from_profile.m
+END
+kiks_reginfo_write.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_reginfo_write.m
+END
+kiks_expandmatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_expandmatrix.m
+END
+kiks_kiksnet.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_kiksnet.m
+END
+kiks_spawn_object.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_spawn_object.m
+END
+kiks_recordmovie.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_recordmovie.m
+END
+kiks_mod.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_mod.m
+END
+kiks_calculate_speed_from_profile.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_speed_from_profile.m
+END
+kiks_getsiminfopath.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_getsiminfopath.m
+END
+kiks_gui_getsenslistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_getsenslistbox.m
+END
+kiks_reset.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_reset.m
+END
+kiks_quit.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_quit.m
+END
+kiks_checkversion.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_checkversion.m
+END
+kiks_gui_getobjlistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_getobjlistbox.m
+END
+kiks_draw_light.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_draw_light.m
+END
+kiks_gui_getportvalue.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_getportvalue.m
+END
+kiks_arena_addlight.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_addlight.m
+END
+kiks_gui_getaccmethod.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_getaccmethod.m
+END
+kiks_setdiod.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_setdiod.m
+END
+kiks_calculate_ballspd.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_ballspd.m
+END
+kiks_matlab_focus.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_matlab_focus.m
+END
+kiks_gui_setobjlistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_setobjlistbox.m
+END
+kiks_gui_setstatlistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_setstatlistbox.m
+END
+kiks_gui_monitorclsreq.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_monitorclsreq.m
+END
+kiks_gui_getcomplistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_getcomplistbox.m
+END
+kiks_recieve_string.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_recieve_string.m
+END
+kiks_gui_gettimescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_gettimescale.m
+END
+kiks_robotlmppatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_robotlmppatch.m
+END
+kiks_gui_monitor.mat
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_monitor.mat
+END
+kiks_kiksnet_connect.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_kiksnet_connect.m
+END
+kiks_calculate_gripper.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_gripper.m
+END
+kiks_patch_light.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_patch_light.m
+END
+kiks_checkpoint.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_checkpoint.m
+END
+kiks_error.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_error.m
+END
+kiks_contour.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_contour.m
+END
+kiks_arena_subball.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_subball.m
+END
+kiks_recieve_var.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_recieve_var.m
+END
+kiks_gui_monitor.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_monitor.m
+END
+kiks_gui_staticbtn.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_staticbtn.m
+END
+kiks_setinterpolate.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_setinterpolate.m
+END
+kiks_generate_wall_polygons.m
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_generate_wall_polygons.m
+END
+kiks_calculate_line.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_line.m
+END
+kiks_update_remote_objects.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_update_remote_objects.m
+END
+kiks_gui_loghistory.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_loghistory.m
+END
+kiks_arena_sub_mask.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_sub_mask.m
+END
+kiks_gui_gettargetspeed.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_gettargetspeed.m
+END
+kiks_moverobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_moverobot.m
+END
+kiks_sim_light.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_sim_light.m
+END
+kiks_arena_window_grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_window_grid.m
+END
+kiks_remotekheppatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_remotekheppatch.m
+END
+kiks_transmit_string.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_transmit_string.m
+END
+kiks_scale.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_scale.m
+END
+kiks_delete_object.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_delete_object.m
+END
+kiks_reginfo.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_reginfo.m
+END
+kiks_gui_grid.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_grid.m
+END
+kiks_gui_ixprox.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_ixprox.m
+END
+kiks_gui_simulaterobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_simulaterobot.m
+END
+kiks_arena_window_open.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_window_open.m
+END
+kiks_save.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_save.m
+END
+kiks_gui_monitorbtn.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_monitorbtn.m
+END
+kiks_load_settings.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_load_settings.m
+END
+kiks_sim_prox.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_sim_prox.m
+END
+kiks_arena_window_close.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_window_close.m
+END
+kiks_generate_maze.m
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_generate_maze.m
+END
+kiks_arena_window_truesize.m
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_window_truesize.m
+END
+kiks_p2mm.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_p2mm.m
+END
+kiks_arena_addremoterobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_addremoterobot.m
+END
+kiks_compressmatrix.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_compressmatrix.m
+END
+kiks_gui_getlimitlistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_getlimitlistbox.m
+END
+kiks_halt.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_halt.m
+END
+kiks_kad2arena.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_kad2arena.m
+END
+kiks_monitor_update.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_monitor_update.m
+END
+kiks_set_robot_data.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_set_robot_data.m
+END
+kiks_getpath.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_getpath.m
+END
+kiks_gui_vis2dtoggle.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_vis2dtoggle.m
+END
+kiks_gui_kiksnet_password.m
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_kiksnet_password.m
+END
+kiks_arena_edit_mode.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_edit_mode.m
+END
+kiks_speedtest.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_speedtest.m
+END
+kiks_draw_robot.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_draw_robot.m
+END
+kiks_gui_setlimitlistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_setlimitlistbox.m
+END
+kiks_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_init.m
+END
+kiks_robotdiodpatch.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_robotdiodpatch.m
+END
+kiks_pushobj_test.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_pushobj_test.m
+END
+kiks_calculate_speed.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_calculate_speed.m
+END
+kiks_settimescale.m
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_settimescale.m
+END
+kiks_detect_collision.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_detect_collision.m
+END
+kiks_status.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_status.m
+END
+kiks_gui.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui.m
+END
+kiks_stepsim.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_stepsim.m
+END
+kiks_gui_getstatlistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_getstatlistbox.m
+END
+kiks_pausesim.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_pausesim.m
+END
+kiks_gui_setsenslistbox.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_gui_setsenslistbox.m
+END
+kiks_spawn_robot.m
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_spawn_robot.m
+END
+kiks_reginfo_lictypecallback.m
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_reginfo_lictypecallback.m
+END
+kiks_arena_new.m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_new.m
+END
+kiks_arena_window_init.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_window_init.m
+END
+kiks_arena_addroundobj.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_addroundobj.m
+END
+kiks_arena_subroundobj.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/system/kiks_arena_subroundobj.m
+END

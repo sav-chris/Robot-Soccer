@@ -30,7 +30,7 @@ LP = 5;         %Large Positive
                  [LP Z  N  LN LN];
                  [LP P  Z  N  LN];
                  [LP LP P  Z  LN];
-                 [LP P  P  Z  LN]]';
+                 [LP P  P  Z  LN]];
           
 positiveDist = [ [LP Z	N  N  LN]; 
                  [LP Z  N  LN LN];

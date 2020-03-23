@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo
+END
+kiks_siminfo_speed.m
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_siminfo_speed.m
+END
+kiks_siminfo_setrobot.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_siminfo_setrobot.m
+END
+kiks_siminfo_robotpath.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_siminfo_robotpath.m
+END
+kiks_siminfo_setobject.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_siminfo_setobject.m
+END
+kiks_siminfo_robotpos.m
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_siminfo_robotpos.m
+END
+kiks_print.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_print.m
+END
+kiks_siminfo_objects.m
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_siminfo_objects.m
+END
+kiks_siminfo_robotdist.m
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/71/INB860_Submission/kiks2.2.0/siminfo/kiks_siminfo_robotdist.m
+END
