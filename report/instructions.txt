@@ -1,0 +1,23 @@
+====================
+KHEPERA ROBOT SOCCER
+====================
+
+----------------------------------
+ManUnited() execution instructions
+----------------------------------
+
+1.	Copy the 'kiks2.2.0' directory (included on this disk) into 
+	the MATLAB working directory.
+
+	This will ensure that the 'kiks_preferences.m' file is correct,
+	as well as ensuring that the arena 'soccerQUT.tif' is included.
+
+2.	Run the command 'kiks_setup' in the MATLAB console.
+
+3.	Run the command 'kiks('soccerQUT.tif') in the MATLAB console.
+
+4.	Make any necessary changes to the arena (such as adding ball 
+
+5.	Navigate to the 'functions' directory included on this disk.
+
+6.	Run the command 'ManUnited' in the MATLAB console.
